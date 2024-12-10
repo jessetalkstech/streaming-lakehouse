@@ -9,3 +9,6 @@ The following is a list of planned features in this project:
 * Utilize publicly availably datasets for source in flat file (CSV), JSON, and MySQL database formats
 * Deliver as close to real time as possible
 
+## Future projects
+* Master data management
+* AI based projects (still need to define this)
